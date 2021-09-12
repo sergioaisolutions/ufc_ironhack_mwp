@@ -1,0 +1,3 @@
+- https://public.tableau.com/app/profile/gonzalo.zurita/viz/UFCbook/Sheet1
+- https://public.tableau.com/app/profile/gonzalo.zurita/viz/UFC2_16311923725950/Sheet1
+- https://public.tableau.com/app/profile/gonzalo.zurita/viz/UFCvsothercompanies/Sheet3
